@@ -1,2 +1,3 @@
 # SVMAlgo
-These repository have different datasets example implementation of SVM as classifier and Regressor.
+This repository has different datasets example implementation of SVM as a classifier and Regressor.Also an example of cross-validation
+
